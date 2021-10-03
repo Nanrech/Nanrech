@@ -1,6 +1,5 @@
-Hi, I’m @Nanrech
-
-Currently learning how to code.
+Hi, I’m Nanrech. AKA Nan R.
+:shipit:
 
 <!---
 Nanrech/Nanrech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
