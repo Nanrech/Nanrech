@@ -4,7 +4,6 @@ Most of my repos are private/local!
 Misc. projects I have contributed to/am contributing to:
 - Hypixel: Former Translator and Proofreader 
 - Minecraft/Minecraft Launcher: Translator
-- Ladysnake: Translator 
 - ProtonMail/VPN: Translator and proofreader
 - Working on a couple of yet-to-be-released projects
 <!---
