@@ -1,5 +1,5 @@
 
-Most of my repos are private/local!
+Most of my stuffs are private/local!
 
 Misc. projects I have contributed to/am contributing to:
 - Hypixel: Former Translator and Proofreader 
