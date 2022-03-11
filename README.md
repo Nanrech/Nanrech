@@ -1,6 +1,10 @@
 
 Most of my stuffs are private/local!
 
+Discord: Nan#5809
+Crowdin: NanR
+Twitter: Nanrech_
+
 Misc. projects I have contributed to/am contributing to:
 - Hypixel: Former Translator and Proofreader 
 - Minecraft/Minecraft Launcher: Translator
