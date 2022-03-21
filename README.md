@@ -6,7 +6,7 @@ Crowdin: `NanR`
 Twitter: `Nanrech_`
 
 Misc. projects I have contributed to/am contributing to:
-- Hypixel: Former Translator and Proofreader 
+- Hypixel: Translator and Proofreader 
 - Minecraft/Minecraft Launcher: Translator
 - ProtonMail/VPN: Translator and proofreader
 - Working on a couple of yet-to-be-released projects
