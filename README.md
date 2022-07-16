@@ -1,6 +1,3 @@
-
-Most of my stuffs are private/local!
-
 Discord: `Nan#5809`
 Crowdin: `NanR`
 Twitter: `Nanrech_`
