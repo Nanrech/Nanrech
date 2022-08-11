@@ -1,5 +1,5 @@
 ## Socials
-Discord: `Nan#5809 - 452954731162238987`
+Discord: `Nan#5809`
 
 Crowdin: [`NanR`](crowdin.com/profile/NanR)
 
