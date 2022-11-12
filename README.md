@@ -11,8 +11,7 @@ GitHub: [Duh](https://github.com/Nanrech)
 - [Hypixel](): (formerly) Translator & Proofreader 
 - [Minecraft/Minecraft Launcher](): Translator
 - ProtonMail/VPN: (formerly) Translator & Proofreader
-- [interactions.py](https://github.com/interactions-py/): Contributor, technical support & extension developer
-- [Secret projects](https://http.cat/425)
+- [interactions.py](https://github.com/interactions-py/): Contributor, & tech support
 
 <!---
 Nanrech/Nanrech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
