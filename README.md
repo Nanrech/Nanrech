@@ -1,4 +1,4 @@
-## Socials
+## Accounts
 Discord: `Nan#5809`
 
 Crowdin: [`NanR`](crowdin.com/profile/NanR)
@@ -10,8 +10,10 @@ Twitter: [`Nanrech_`](twitter.com/Nanrech_)
 - [Minecraft/Minecraft Launcher](): Translator
 - ProtonMail/VPN: (formerly) Translator & Proofreader
 - [interactions.py](https://github.com/interactions-py/): Contributor, & tech support
+- some random stuff here & there
 
-<!---
-Nanrech/Nanrech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+- C
+- Python
+- JS/TS
+- I like apis and breaking stuff
