@@ -5,8 +5,6 @@ Crowdin: [`NanR`](crowdin.com/profile/NanR)
 
 Twitter: [`Nanrech_`](twitter.com/Nanrech_)
 
-GitHub: [Duh](https://github.com/Nanrech)
-
 ## Contributions
 - [Hypixel](): (formerly) Translator & Proofreader 
 - [Minecraft/Minecraft Launcher](): Translator
