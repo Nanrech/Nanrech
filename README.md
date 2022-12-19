@@ -9,11 +9,11 @@ Twitter: [`Nanrech_`](twitter.com/Nanrech_)
 - [Hypixel](): (formerly) Translator & Proofreader 
 - [Minecraft/Minecraft Launcher](): Translator
 - ProtonMail/VPN: (formerly) Translator & Proofreader
-- [interactions.py](https://github.com/interactions-py/): Contributor, & tech support
+- [interactions.py](https://github.com/interactions-py/): Contributor, & (formerly) tech support
 - some random stuff here & there
 
 ## About Me
 - C
 - Python
 - JS/TS
-- I like apis and breaking stuff
+- I like experimenting with REST APIs and breaking stuff
