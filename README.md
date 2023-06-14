@@ -7,7 +7,7 @@ Twitter: [`Nanrech_`](https://twitter.com/Nanrech_)
 
 ## Contributions
 - [Hypixel](): (formerly) Translator & Proofreader 
-- [Minecraft/Minecraft Launcher](): Translator
+- [Minecraft](https://crowdin.com/project/minecraft)/[Minecraft Launcher](https://crowdin.com/project/minecraft-launcher): Translator
 - ProtonMail/VPN: (formerly) Translator & Proofreader
 - [interactions.py](https://github.com/interactions-py/): Contributor, & (formerly) user support
 - [Commissioned Discord bot](https://github.com/Nanrech/2bot)
