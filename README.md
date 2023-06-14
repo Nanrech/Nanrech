@@ -1,9 +1,9 @@
 ## Accounts
 Discord: `van.r`
 
-Crowdin: [`NanR`](crowdin.com/profile/NanR)
+Crowdin: [`NanR`](https://crowdin.com/profile/NanR)
 
-Twitter: [`Nanrech_`](twitter.com/Nanrech_)
+Twitter: [`Nanrech_`](https://twitter.com/Nanrech_)
 
 ## Contributions
 - [Hypixel](): (formerly) Translator & Proofreader 
