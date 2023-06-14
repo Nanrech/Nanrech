@@ -1,5 +1,5 @@
 ## Accounts
-Discord: `Nan#5809`
+Discord: `van.r`
 
 Crowdin: [`NanR`](crowdin.com/profile/NanR)
 
