@@ -5,7 +5,7 @@ Crowdin: [`NanR`](https://crowdin.com/profile/NanR)
 
 Twitter: [`Nanrech_`](https://twitter.com/Nanrech_)
 
-## Contributions
+## About me
 - [Hypixel](https://crowdin.com/project/hypixel): (formerly) Translator & Proofreader 
 - [Minecraft](https://crowdin.com/project/minecraft)/[Minecraft Launcher](https://crowdin.com/project/minecraft-launcher): Translator
 - ProtonMail/VPN: (formerly) Translator & Proofreader
@@ -13,7 +13,7 @@ Twitter: [`Nanrech_`](https://twitter.com/Nanrech_)
 - [Commissioned Discord bot](https://github.com/Nanrech/2bot)
 - some random stuff here & there
 
-## About Me
+## Stuff I use
 - C
 - Python
 - JS/TS
