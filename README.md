@@ -1,5 +1,5 @@
 ## Accounts
-Discord: `van.r`
+Discord: `@van.r`
 
 Crowdin: [`NanR`](https://crowdin.com/profile/NanR)
 
@@ -13,7 +13,7 @@ Twitter: [`Nanrech_`](https://twitter.com/Nanrech_)
 - [Commissioned Discord bot](https://github.com/Nanrech/2bot)
 - some random stuff here & there
 
-## Stuff I use
+## Skills
 - C
 - Python
 - JS/TS
