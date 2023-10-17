@@ -1,9 +1,9 @@
 ## Accounts
-Discord: `@van.r`
+Discord: `@nan.r`
 
 Crowdin: [`NanR`](https://crowdin.com/profile/NanR)
 
-Twitter: [`Nanrech_`](https://twitter.com/Nanrech_)
+Twitter: [`Nanrech_`](https://twitter.com/kuliltu)
 
 ## About me
 - [Hypixel](https://crowdin.com/project/hypixel): (formerly) Translator & Proofreader 
