@@ -3,8 +3,6 @@ Discord: `@nan.r`
 
 Crowdin: [`NanR`](https://crowdin.com/profile/NanR)
 
-Twitter: [`X`](https://twitter.com/kuliltu)
-
 ## About me
 - [Hypixel](https://crowdin.com/project/hypixel): (formerly) Translator & Proofreader 
 - [Minecraft](https://crowdin.com/project/minecraft)/[Minecraft Launcher](https://crowdin.com/project/minecraft-launcher): Translator
