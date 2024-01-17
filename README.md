@@ -1,19 +1,16 @@
 ## Accounts
-Discord: `@nan.r`
-
 Crowdin: [`NanR`](https://crowdin.com/profile/NanR)
 
-## About me
+## Previous
 - [Hypixel](https://crowdin.com/project/hypixel): (formerly) Translator & Proofreader 
-- [Minecraft](https://crowdin.com/project/minecraft)/[Minecraft Launcher](https://crowdin.com/project/minecraft-launcher): Translator
+- [Minecraft](https://crowdin.com/project/minecraft)/[Minecraft Launcher](https://crowdin.com/project/minecraft-launcher): Translator & Proofreader
 - ProtonMail/VPN: (formerly) Translator & Proofreader
-- [interactions.py](https://github.com/interactions-py/): Contributor, & (formerly) user support
+- [interactions.py](https://github.com/interactions-py/): Contributor & (formerly) user support
 - [Commissioned Discord bot](https://github.com/Nanrech/2bot)
 - some random stuff here & there
 
-## Skills
-- C
+## About
+- C/C++
 - Python
-- JS/TS
-- Open for commissions
-- I like experimenting with REST APIs and breaking stuff
+- JS
+- I like breaking stuff
