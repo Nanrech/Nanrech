@@ -6,7 +6,8 @@ Crowdin: [`NanR`](https://crowdin.com/profile/NanR)
 - [Minecraft](https://crowdin.com/project/minecraft)/[Minecraft Launcher](https://crowdin.com/project/minecraft-launcher): Translator & Proofreader
 - ProtonMail/VPN: (formerly) Translator & Proofreader
 - [interactions.py](https://github.com/interactions-py/): Contributor & (formerly) user support
-- [Commissioned Discord bot](https://github.com/Nanrech/2bot)
+- (Commissioned) [Discord bot](https://github.com/Nanrech/2bot)
+- Studying Computer Science
 - some random stuff here & there
 
 ## About
