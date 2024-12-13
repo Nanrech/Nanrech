@@ -14,4 +14,4 @@ Crowdin: [`NanR`](https://crowdin.com/profile/NanR)
 - C/C++
 - Python
 - JS
-- I like breaking stuff
+- I like taking stuff apart
